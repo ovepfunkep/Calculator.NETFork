@@ -8,8 +8,7 @@ namespace Calculator.NET
     {
         private static void WelcomeMessage()
         {
-            Console.WriteLine(
-                "\n\n  --------------------------- Welcome to Calculator.NET! --------------------------" +
+            Console.WriteLine("! --------------------------" +
                 "\n\n Enter any calculation you would like to perform using any of the four operators" +
                 "\n\n\n\t\t\t\t `+` `-` `*` `/`                                      " +
                 "\n" +
